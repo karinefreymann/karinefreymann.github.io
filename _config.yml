@@ -2,6 +2,9 @@
 title: Karine FREYMANN
 timezone: UTC
 collections:
+  expos:
+    title: Expos
+    output: true
   posts:
     title: Posts
     output: true
