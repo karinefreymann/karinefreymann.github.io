@@ -5,16 +5,6 @@ description: masonry
 active: gallery
 header-img: img/gallery-bg.jpg
 album-title: Portraits
-images:
-- image_path: "/gallery/archive/g01/bg1.jpg"
-  caption: IMAGE TITLE
-  copyright: "© photorama"
-- image_path: "/gallery/archive/g01/bg2.jpg"
-  caption: IMAGE TITLE
-  copyright: "© photorama"
-- image_path: "/gallery/archive/g01/bg3.jpg"
-  caption: IMAGE TITLE
-  copyright: "© photorama"
 ---
 
 <html class="no-js" lang="en">
@@ -29,32 +19,6 @@ images:
 	<br><br>
 			<h2>{{page.album-title}}</h2>
 
-
-			<!-- Gallery __-->
-			<div class="gallery masonry-gallery">
-
-{% for image in page.images %}
-
-				<figure class="gallery-item">
-					<header class='gallery-icon'>
-
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup"  title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-
-					</header>
-					<figcaption class='gallery-caption'>
-						<div class="entry-summary" id="{{ image.caption }}">
-							<h3>{{image.caption}}</h3>
-							<p>{{image.copyright}}</p>
-						</div>
-					</figcaption>
-				</figure>
-
-{% endfor %}
-
-			</div>
-
-
       <!-- Gallery __-->
 			<div class="gallery masonry-gallery">
 
@@ -63,17 +27,15 @@ images:
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup"  title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ portrait.photo }}" class="popup"  title="{{ portrait.title }}" data-caption="{{ portrait.dimensions }} ~ {{ portrait.technique }}">
+<img src="{{ site.url }}{{ site.baseurl }}{{ portrait.photo }}"></a>
 
 					</header>
 					<figcaption class='gallery-caption'>
-						<div class="entry-summary" id="{{ image.caption }}">
+						<div class="entry-summary" id="{{ portrait.title }}">
 
-               {% assign content = portrait.content %}
-
-							<h3>{{image.caption}} {{ portrait.dimensions }}</h3>
-							<p>{{image.copyright}}  {{ portrait.technique }}</p>
+							<h3>{{ portrait.title }}</h3>
+							<p>{{ portrait.dimensions }} ~ {{ portrait.technique }}</p>
 						</div>
 					</figcaption>
 				</figure>
