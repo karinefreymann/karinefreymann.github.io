@@ -71,9 +71,9 @@ images:
 						<div class="entry-summary" id="{{ image.caption }}">
 
                {% assign content = portrait.content %}
-{{ portrait.photo }}
-							<h3>{{image.caption}}</h3>
-							<p>{{image.copyright}}</p>
+
+							<h3>{{image.caption}} {{ portrait.dimensions }}</h3>
+							<p>{{image.copyright}}  {{ portrait.technique }}</p>
 						</div>
 					</figcaption>
 				</figure>
