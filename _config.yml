@@ -19,9 +19,9 @@ defaults:
     path: ''
     type: portraits
   values:
-    technique: 
-    dimensions: 
-    photo: 
+    technique:
+    dimensions:
+    photo:
 kramdown:
   input: GFM
   hard_wrap: false
@@ -47,7 +47,6 @@ comments:
 nav:
 - EXPOS: "/expos/"
 - PORTRAITS: "/portraits/"
-- JOURNAL: "/journal/"
 translations:
   permalink: "/404.html"
 destination: "./_site"
