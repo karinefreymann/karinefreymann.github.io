@@ -31,10 +31,8 @@ comments:
   disqus:
     short_name: ''
 nav:
-  - EXPOS: "/expos/"
-  - GALLERY: "http://www.karinefreymann.fr/gallery/"
-
-# All translation keys
+- EXPOS: "/expos/"
+- GALLERY: http://www.karinefreymann.fr/gallery/
 translations:
   permalink: "/404.html"
 destination: "./_site"
