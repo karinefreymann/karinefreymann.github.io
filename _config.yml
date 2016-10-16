@@ -22,21 +22,21 @@ defaults:
     path: ''
     type: portraits
   values:
-    technique:
-    dimensions:
-    photo:
+    technique: 
+    dimensions: 
+    photo: 
 - scope:
     path: ''
     type: corps
   values:
-    technique:
-    dimensions:
-    photo:
+    technique: 
+    dimensions: 
+    photo: 
 - scope:
     path: ''
     type: expos
   values:
-    photo:
+    photo: 
 - scope:
     path: ''
     type: pages
