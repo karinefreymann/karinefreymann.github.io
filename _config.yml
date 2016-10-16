@@ -40,6 +40,16 @@ nav:
 - EXPOS: "/expos/"
 - PORTRAITS: "/portraits/"
 - JOURNAL: "/journal/"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "portraits"
+    values:
+      title: ""
+      technique: ["Acrylique sur toile","Dessin à l'encre de chine"]
+      dimensions:
+      photo:
 translations:
   permalink: "/404.html"
 destination: "./_site"
