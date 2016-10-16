@@ -5,6 +5,9 @@ collections:
   expos:
     title: Expos
     output: true
+  portraits:
+    title: Portraits
+    output: true
   posts:
     title: Posts
     output: true
