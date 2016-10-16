@@ -19,12 +19,9 @@ defaults:
     path: ''
     type: portraits
   values:
-    title: ''
     technique:
-    - Acrylique sur toile
-    - Dessin à l'encre de chine
-    dimensions: 
-    photo: 
+    dimensions:
+    photo:
 kramdown:
   input: GFM
   hard_wrap: false
