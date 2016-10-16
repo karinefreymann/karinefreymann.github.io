@@ -1,0 +1,6 @@
+---
+title: news
+date: 2016-10-16 10:11:00 Z
+---
+
+this is a news
