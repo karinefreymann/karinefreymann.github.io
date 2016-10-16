@@ -31,11 +31,9 @@ comments:
   disqus:
     short_name: ''
 nav:
-  - EXPOS: "/expos/"
-  - GALLERY: "/gallery/"
-  - POSTS: "/posts/"
-
-# All translation keys
+- EXPOS: "/expos/"
+- GALLERY: "/gallery/"
+- POSTS: "/posts/"
 translations:
   permalink: "/404.html"
 destination: "./_site"
