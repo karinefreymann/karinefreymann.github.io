@@ -33,7 +33,7 @@ comments:
 nav:
   - EXPOS: "/expos/"
   - GALLERY: "/gallery/"
-  - POSTS: "/posts/"
+  - JOURNAL: "/journal/"
 
 # All translation keys
 translations:
