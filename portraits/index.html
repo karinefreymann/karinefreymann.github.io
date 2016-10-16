@@ -21,8 +21,8 @@ album-title: Portraits
 
       <!-- Gallery __-->
 			<div class="gallery masonry-gallery">
-
-{% for portrait in site.portraits %}
+{% assign sorted_portraits = site.portraits | sort:"position", "last" %}
+{% for portrait in sorted_portraits %}
 
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
