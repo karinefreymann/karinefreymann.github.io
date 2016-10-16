@@ -8,6 +8,9 @@ collections:
   portraits:
     title: Portraits
     output: true
+  corps:
+    title: Corps
+    output: true
   posts:
     title: Posts
     output: true
@@ -19,9 +22,16 @@ defaults:
     path: ''
     type: portraits
   values:
-    technique: 
-    dimensions: 
-    photo: 
+    technique:
+    dimensions:
+    photo:
+- scope:
+    path: ''
+    type: corps
+  values:
+    technique:
+    dimensions:
+    photo:
 kramdown:
   input: GFM
   hard_wrap: false
@@ -46,7 +56,9 @@ comments:
     short_name: ''
 nav:
 - EXPOS: "/expos/"
+- CORPS: "/corps/"
 - PORTRAITS: "/portraits/"
+- A PROPOS: "/apropos/"
 translations:
   permalink: "/404.html"
 destination: "./_site"
