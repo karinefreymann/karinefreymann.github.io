@@ -44,7 +44,8 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://karinefreymann/gallery/"
+  - EXPOS: "/expos/"
+  - GALLERY: "http://www.karinefreymann.fr/gallery/"
 
 # All translation keys
 translations:
