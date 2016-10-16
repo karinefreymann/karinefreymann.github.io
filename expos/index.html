@@ -31,20 +31,15 @@ header-img: img/writing-bg.jpg
 
 <div class="post-preview" style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
 
-<a href="{{ post.url | prepend: site.baseurl }}">
   {% if expo.image.feature %}
 	<img src="{{ site.baseurl }}/img/postcover/{{ post.image.feature }}">
 	{% endif %}
 
-
-        <p class="post-title" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 16px; margin-left: 1em;"> &#9658; {{ expo.title }}
-        </p>
-</a>
-        {% if expo.subtitle %}
-        <p class="post-subtitle" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 12px; margin-left: 1em;"> {{ expo.subtitle }}</p>
-        {% endif %}
-
-    <p class="post-meta" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 10px; margin-left: 1em;"> Posted on {{ expo.date | date: "%B %-d, %Y" }}</p>
+  <p class="post-title" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 16px; margin-left: 1em;">
+ &#9658; {{ expo.title }}
+  </p>
+  <p class="post-subtitle" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 12px; margin-left: 1em;"> {{ expo.content }}</p>
+  <p class="post-meta" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 10px; margin-left: 1em;"> Posted on {{ expo.date | date: "%B %-d, %Y" }}</p>
 </div>
 
 </div>
