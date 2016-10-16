@@ -24,7 +24,7 @@ email: ''
 description: Portfolio
 url: http://www.karinefreymann.fr
 baseurl: "/karinefreymann.github.io"
-facebook_username: ''
+facebook_username: 'kfpeintre'
 twitter_username: ''
 instagram_username: ''
 github_username: ''
@@ -38,8 +38,7 @@ comments:
     short_name: ''
 nav:
 - EXPOS: "/expos/"
-- GALLERY: "/gallery/"
-- PORTRAITS: "/gallery/portraits/"
+- PORTRAITS: "/portraits/"
 - JOURNAL: "/journal/"
 translations:
   permalink: "/404.html"
