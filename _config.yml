@@ -39,6 +39,7 @@ comments:
 nav:
 - EXPOS: "/expos/"
 - GALLERY: "/gallery/"
+- PORTRAITS: "/gallery/portraits/"
 - JOURNAL: "/journal/"
 translations:
   permalink: "/404.html"
