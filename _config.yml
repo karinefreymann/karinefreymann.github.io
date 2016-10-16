@@ -32,7 +32,8 @@ comments:
     short_name: ''
 nav:
   - EXPOS: "/expos/"
-  - GALLERY: "http://www.karinefreymann.fr/gallery/"
+  - GALLERY: "/gallery/"
+  - POSTS: "/posts/"
 
 # All translation keys
 translations:
