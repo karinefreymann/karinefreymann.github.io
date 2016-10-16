@@ -19,9 +19,9 @@ defaults:
     path: ''
     type: portraits
   values:
-    technique:
-    dimensions:
-    photo:
+    technique: 
+    dimensions: 
+    photo: 
 kramdown:
   input: GFM
   hard_wrap: false
