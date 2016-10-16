@@ -58,7 +58,7 @@ images:
       <!-- Gallery __-->
 			<div class="gallery masonry-gallery">
 
-{% for portrait in portraits %}
+{% for portrait in site.portraits %}
 
 				<figure class="gallery-item">
 					<header class='gallery-icon'>
@@ -71,6 +71,7 @@ images:
 						<div class="entry-summary" id="{{ image.caption }}">
 
                {% assign content = portrait.content %}
+{{ portrait.photo }}
 							<h3>{{image.caption}}</h3>
 							<p>{{image.copyright}}</p>
 						</div>
