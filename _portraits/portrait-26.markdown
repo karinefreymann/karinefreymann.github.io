@@ -1,7 +1,7 @@
 ---
 title: Portrait 26
 date: 2016-10-20 14:45:00 Z
-position: 8
+position: 9
 technique: 'Acrylique sur carton entoilé  '
 dimensions: 46 x 33 cm
 photo: "/uploads/portrait26_hd.jpg"
