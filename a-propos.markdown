@@ -3,6 +3,7 @@ title: A propos
 date: 2016-10-16 14:53:00 Z
 layout: page
 ---
+
 ##A propos
 
 Karine FREYMANN possède assurément une sensibilité hors du commun  qu’elle exprime depuis bientôt quinze années avec talent dans une production artistique  discrète d’abord, puis par une présentation au grand public de ses œuvres, dessins et  peintures, mais aussi par des expositions en galerie.  
