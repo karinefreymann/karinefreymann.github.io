@@ -3,7 +3,7 @@ title: A propos
 date: 2016-10-16 14:53:00 Z
 layout: page
 ---
-##A propos
+## A propos
 
 Karine FREYMANN possède assurément une sensibilité hors du commun  qu’elle exprime depuis bientôt quinze années avec talent dans une production artistique  discrète d’abord, puis par une présentation au grand public de ses œuvres, dessins et  peintures, mais aussi par des expositions en galerie.  
 Portraitiste hors pair, Karine s’est faite une spécialité dans la représentation débordante  d’humanité et de réalisme de sujets plus porteurs dans l’expressivité remarquable de leur  personnalité qu’elle leur a donné. Plus encore c’est le poids des ans, la difficulté de vivre, de  faire face la vie qu’accusent les portraits. Pour autant, le dessin est pur, monochrome, simple  en apparence.  
