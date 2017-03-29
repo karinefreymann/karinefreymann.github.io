@@ -7,3 +7,4 @@ photo: "/uploads/17492279_1305503176195353_3152549153391517784_o%20-%20Edited.jp
 Magasin "Hoffmann-Thill"
 91-93 Grand-Rue à Ettelbruck
 2017/ Ettelbruck/ Luxembourg
+30 Mars au 15 Avril 2017
