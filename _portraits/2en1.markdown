@@ -1,7 +1,7 @@
 ---
 title: 2en1
 date: 2017-04-16 11:28:00 Z
-position: 3
+position: 4
 technique: Acrylique sur toile
 dimensions: 60 x 60 cm
 photo: "/uploads/2en1_hd.jpg"
