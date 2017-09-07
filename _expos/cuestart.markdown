@@ -1,6 +1,7 @@
 ---
 title: Cuest'Art
 date: 2017-09-07 09:58:00 Z
+position: 1
 photo: "/uploads/image.jpg"
 ---
 
