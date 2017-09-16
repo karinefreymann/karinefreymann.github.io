@@ -1,7 +1,7 @@
 ---
 title: '2'
 date: 2017-05-08 14:48:00 Z
-position: 2
+position: 3
 technique: Acrylique sur toile
 dimensions: 73 x 60 cm
 photo: "/uploads/2_hd.jpg"
