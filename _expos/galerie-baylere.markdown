@@ -1,7 +1,7 @@
 ---
 title: Galerie Baylere
 date: 2016-10-16 11:38:00 Z
-position: 4
+position: 5
 photo: "/uploads/IMG_20160229_180738516%20(1).jpg"
 ---
 
