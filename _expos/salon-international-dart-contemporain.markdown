@@ -1,7 +1,7 @@
 ---
 title: Salon International d'Art Contemporain
 date: 2016-10-16 16:59:00 Z
-position: 6
+position: 7
 photo: "/uploads/salonesch%20-%20Edited.jpg"
 ---
 
