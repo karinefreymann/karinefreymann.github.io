@@ -1,7 +1,7 @@
 ---
 title: FAAR 2018
 date: 2018-01-30 10:35:00 Z
-position: 1
+position: 2
 photo: "/uploads/DD_FAAR_Edition2018_Plakat_A5-page-001%20-%20Edited.jpg"
 ---
 

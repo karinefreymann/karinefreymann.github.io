@@ -1,7 +1,7 @@
 ---
 title: Publication
 date: 2017-01-03 07:03:00 Z
-position: 4
+position: 5
 photo: "/uploads/L-expreionnisme-contemporain.jpg"
 ---
 
