@@ -2,6 +2,7 @@
 title: Trajectory 8
 date: 2019-06-23 05:59:00 Z
 position: 0
+photo: "/uploads/trajectory8%20-%20Edited.jpg"
 ---
 
 VERNISSAGE JEUDI 27 JUIN à 19h
